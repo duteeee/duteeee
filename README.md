@@ -5,16 +5,10 @@
   <img width="250" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif">
 </p>
 
-
-<p align="center">
-
-</p>
-
 <p align="center">
 Check out my repos ⬇️  
 </p>
-
-![](https://visitor-badge.glitch.me/badge?page_id=ari-hacks.ari-hacks)
-
-⭐️ From [duteeee](https://github.com/duteeee)
-⭐️ From [Discord : duteeee]
+<p align="center">
+⭐️ Github [duteeee](https://github.com/duteeee)
+⭐️ Discord [Discord : duteeee]
+</p>
