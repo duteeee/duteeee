@@ -9,6 +9,5 @@
 Check out my repos ⬇️  
 </p>
 <p align="center">
-⭐️ Github [duteeee](https://github.com/duteeee)
-⭐️ Discord [Discord : duteeee]
+⭐️ Discord [duteeee]
 </p>
