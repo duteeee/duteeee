@@ -17,4 +17,4 @@ Check out my repos ⬇️
 ![](https://visitor-badge.glitch.me/badge?page_id=ari-hacks.ari-hacks)
 
 ⭐️ From [duteeee](https://github.com/duteeee)
-
+⭐️ From [Discord : duteeee]
